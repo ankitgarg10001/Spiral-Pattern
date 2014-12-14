@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpiralBox</string>
+    <string name="enter_number">Enter \'N\'</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit">Submit</string>
+    <string name="hint">Enter a number</string>
+    <string name="title_activity_pattern">Pattern</string>
+    <string name="theming">Frankly.me</string>
+    <string name="nvalue">for n=</string>
+    <string name="title_activity_test">TestActivity</string>
+
+</resources>
